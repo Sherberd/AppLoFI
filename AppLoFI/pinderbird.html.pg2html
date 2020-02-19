@@ -1,0 +1,27 @@
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="App.css">
+<link href="https://fonts.googleapis.com/css?family=Bebas+Neue|Concert+One|Indie+Flower&display=swap" rel="stylesheet">
+    <title>Pinder</title>
+  </head>
+  <body>
+    <div class="col-sm-3 form-group">
+      <center>
+      </center>
+    </div>
+        <div class="col-sm-6 form-group">
+    <center>
+<h1><a href="lofiapp.html">Pinder</a></h1>
+<h3>Its Tinder For Adopting Pets!</h3>
+<h2>Find the Pet for you!</h2>
+<img src="dogcover1.jpg" alt="Cute dog" id= "dogcover1">
+</center>
+</div>
+<div class="col-sm-3 form-group">
+<center>
+  <img src="rightarrow.png" id="rightarrow" onclick ="window.location.href = 'pinderbird.html.html'"></a>
+</center>
+</div>
+  </body>
+</html>
